@@ -15,11 +15,11 @@ This project is a basic blog application developed using **Flutter** and **Fireb
 
 ## 🚀 Features
 
-- User registration and login
-- Creating and viewing blog posts
-- Firebase Firestore integration for real-time database
-- Firebase Authentication
-- Clean and minimal UI design
+- User registration and login.
+- Creating and viewing blog posts.
+- Firebase Firestore integration for real-time database.
+- Firebase Authentication.
+- Clean and minimal UI design.
 
 ## 🛠️ Technologies Used
 
